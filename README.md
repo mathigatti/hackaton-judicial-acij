@@ -99,6 +99,13 @@ Mi conclusión es que con un presupuesto de 50 dolares mensuales o menos dedicad
 
 # Apéndice
 
+## Links de la hackaton
+
+- [Listado bases de datos](https://docs.google.com/document/d/1Ykj-_d85wV5NB-ClQt_7Jd_oujhOfjlLzzlGcuORjp0/edit)
+- [Hackaton judicial](https://docs.google.com/document/d/1kHjrZrUsPVyvL-ewl_P-oZslbMsDRyY2I71N-81tdpw/edit)
+- [Documento de trabajo- preguntas disparadoras](https://docs.google.com/document/d/1l5lj-mGs4DRbJSuYkIccv40g1psWaY1H0gA3eoNVoH8/edit)
+- [Miro de la Hackaton](https://miro.com/app/board/uXjVNkQbeYA=/)
+
 ## Comandos útiles
 Ignorar esto si no tenes linux
 
