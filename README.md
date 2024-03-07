@@ -49,7 +49,7 @@ Averiguar el total de ingresos de causas mencionado en el PDF "Informe_Estadisti
 
 #### Procedimiento
 
-Se usó [openAI assistant](https://platform.openai.com/playground) con los parametros especificados abajo.
+Se usó [openAI assistant](https://platform.openai.com/playground) con los siguientes parámetros.
 
     Config
         Name 
@@ -70,17 +70,13 @@ Se usó [openAI assistant](https://platform.openai.com/playground) con los param
 
 **Conversación**
 
-- User
-    ¿Cual es el total de ingresos de causas?
+- User: _¿Cual es el total de ingresos de causas?_
 
-- Bot
-    El total de ingresos de causas es de 141,845.
+- Bot: _El total de ingresos de causas es de 141,845._
 
-- User
-    de donde sacaste ese dato?
+- User: _de donde sacaste ese dato?_
 
-- Bot
-    El dato sobre el total de ingresos de causas, 141,845, fue obtenido de la página 27 del documento .
+- Bot: _El dato sobre el total de ingresos de causas, 141,845, fue obtenido de la página 27 del documento ._
 
 #### Resultados y conclusiones
 
@@ -124,6 +120,13 @@ Me pareció que anduvo bastante bien aunque me aclararon que, por ejemplo, el do
 # Conclusión General
 
 Mi conclusión es que con un presupuesto de 50 dolares mensuales o menos dedicado a herramientas como textract, chatGPT pro o openAI playground y algo de asistencia tecnica varias tareas de trabajo manual pesado deberían poder automatizarse o reducirse en gran parte.
+
+Páginas con detalles de precios de los servicios
+
+- https://help.openai.com/en/articles/8550641-assistants-api
+- https://openai.com/pricing
+- https://aws.amazon.com/es/textract/pricing/
+- https://openai.com/chatgpt/pricing
 
 # Apéndice
 
