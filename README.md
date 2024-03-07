@@ -91,7 +91,7 @@ De una lista de varios PDFs se quiere calcular la cantidad total de juicios y el
 No registre las respuestas pero hice basicamente lo mismo que en el caso 3, use el openAI Assistant y le consulté por los juicios totales y el promedio de duración de los mismos.
 
 #### Resultados y conclusiones
-No anduvo bien con openai playground pidiendole que calcule cosas que requieran consultar en varios pdfs y hacer calculos. Charlamos que en esos casos es mejor migrar las tablas a excel, usando por ejemplo textract y despues hacer los calculos en excel. Y en todo caso ahi se le puede pedir ayuda a chatgpt para armar las formulas de excel.
+No anduvo bien con openai playground pidiendole que calcule cosas que requieran consultar en varios pdfs y hacer calculos. Charlamos que en esos casos es mejor migrar las tablas a excel, usando por ejemplo textract y despues hacer los calculos en excel. Y en todo caso ahi se le puede pedir ayuda a chatgpt para armar las formulas de excel. Al igual que en el ejemplo 2 se podria automatizar la consulta a chatGPT para poder rapidamente armar una tabla a partir de los PDFs de un año dado.
 
 ### Caso 5
 
