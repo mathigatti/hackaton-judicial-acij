@@ -25,7 +25,7 @@ Se sacó un screenshot del PDF en la región de la tabla y se utilizó [textract
 
 #### Resultados y conclusiones
 
-No la revise tanto la tabla pero parece haber dado buenos resultados.  
+Dió muy buenos resultados aunque por alguna razón no exporto la parte de la tabla de la segunda página (las últimas tres filas de la tabla), mandando cada página por separado dió mejores resultados.
 
 ### Caso 2
 
