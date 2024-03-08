@@ -1,6 +1,6 @@
 # Hackatón Judicial
 
-Participé en la Hackatón Judicial organizada por [ACIJ](https://acij.org.ar/) (Asociación Civil por la Igualdad y la Justicia). Durante charlamos algunos retos y problematicas relacionadas a lo trabajoso de extraer manualmente datos de PDFs y las dificultades para automatizar estas tareas. En este repositorio dejo algunas pruebas que hicimos intentando usar herramientas novedosas como [chatGPT](https://chat.openai.com/) y [textract](https://aws.amazon.com/es/textract/) para encarar estos inconvenientes.
+Participé en la Hackatón Judicial organizada por [ACIJ](https://acij.org.ar/) (Asociación Civil por la Igualdad y la Justicia). Durante el encuentro charlamos algunos retos y problematicas relacionadas a lo trabajoso de extraer manualmente datos de PDFs y las dificultades para automatizar estas tareas. En este repositorio dejo algunas pruebas que hicimos intentando usar herramientas novedosas como [chatGPT](https://chat.openai.com/) y [textract](https://aws.amazon.com/es/textract/) para encarar estos inconvenientes.
 
 ## Herramientas
 
