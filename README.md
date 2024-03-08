@@ -25,7 +25,7 @@ Se sacó un screenshot del PDF en la región de la tabla y se utilizó [textract
 
 #### Resultados y conclusiones
 
-Dió muy buenos resultados aunque por alguna razón no exporto la parte de la tabla de la segunda página (las últimas tres filas de la tabla), mandando cada página por separado dió mejores resultados.
+Dió muy buenos resultados aunque por alguna razón no exporto la parte de la tabla de la segunda página (las últimas tres filas de la tabla), mandando cada página por separado dió mejores resultados, como se puede ver en `textract-segundapagina.csv` que fue el resultado de procesar `tabla-segundapagina.jpg`.
 
 ### Caso 2
 
